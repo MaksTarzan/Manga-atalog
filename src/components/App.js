@@ -1,15 +1,15 @@
-import React, {Component} from 'react';
-
+import React from 'react';
 import './../styles/App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Main from "./Main";
+import ErrorBoundary from "./ErrorBoundary";
 
-class App extends Component {
-    render() {
+function App() {
         return (
-            <div>
-                <h1>My React App!</h1>
-            </div>
+            <ErrorBoundary>
+                <Main/>
+            </ErrorBoundary>
         );
-    }
 }
 
 export default App;
