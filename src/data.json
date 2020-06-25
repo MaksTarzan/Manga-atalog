@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Black Clover",
+    "image": "https://mangaclub.ru/uploads/posts/2016-07/medium/1468776537_black-clover-manga.jpg",
+    "j": "Manga",
+    "desc": "Tabata Yuuki"
+  },
+  {
+    "id": 2,
+    "name": "D.F.D.",
+    "image": "https://mangaclub.ru/uploads/posts/2017-01/1484539258_imgres.jpg",
+    "j": "Manga",
+    "desc": "Nishi Osyou"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Stone",
+    "image": "https://mangaclub.ru/uploads/posts/2017-07/medium/1498981018_dr.-stone-manga.jpg",
+    "j": "Manga",
+    "desc": "Inagaki Riichiro"
+  },
+  {
+    "id": 4,
+    "name": "Gosu",
+    "image": "https://mangaclub.ru/uploads/posts/2016-06/medium/1466599357_the-master-gosu.jpg",
+    "j": "Manga",
+    "desc": "Ryu Gi Un"
+  },
+  {
+    "id": 5,
+    "name": "T.S.R.",
+    "image": "https://mangaclub.ru/uploads/posts/2016-11/medium/1479972644_the-scholars-reincarnation-manga.jpg",
+    "j": "Manga",
+    "desc": "Soo Yu Hyun"
+  },
+  {
+    "id": 6,
+    "name": "One Piece",
+    "image": "https://mangaclub.ru/uploads/posts/2016-08/medium/1471775675_one-piece-manga.jpeg",
+    "j": "Manga",
+    "desc": "Oda Eiichiro"
+  },
+  {
+    "id": 7,
+    "name": "B.T. & H.",
+    "image": "https://mangaclub.ru/uploads/posts/2016-09/medium/1473252027_battle-through-the-heavens-manga.jpg",
+    "j": "Manga",
+    "desc": "Tang Jia San Shao"
+  },
+  {
+    "id": 8,
+    "name": "Tower of God",
+    "image": "https://mangaclub.ru/uploads/posts/2016-06/medium/1466598936_tower-of-god.jpg",
+    "j": "Manga",
+    "desc": "Naver"
+  }
+]
